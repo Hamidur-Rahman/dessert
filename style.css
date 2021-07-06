@@ -3,12 +3,24 @@
 }
 .half-width{
     width: 100%;
-    padding: 5% 5%;
+    padding: 10% 10% 20px 20px;
     margin-left: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
 }
 .avoid{
     color: red;
 }
-.map{
+.contact{
     text-decoration: none;
+    border: 1px solid blue;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 10px;
+    margin-left: 80px;
+    background-color: chocolate;
+}
+.about{
+    align-items: center;
+    color: rgb(155, 82, 23);
 }
