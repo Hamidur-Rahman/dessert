@@ -1,0 +1,14 @@
+.front-page{
+    display: flex;
+}
+.half-width{
+    width: 100%;
+    padding: 5% 5%;
+    margin-left: 5%;
+}
+.avoid{
+    color: red;
+}
+.map{
+    text-decoration: none;
+}
