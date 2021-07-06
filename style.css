@@ -6,21 +6,52 @@
     padding: 10% 10% 20px 20px;
     margin-left: 5%;
     margin-bottom: 5%;
-    margin-top: 5%;
+    margin-top: 20%;
 }
 .avoid{
     color: red;
 }
 .contact{
     text-decoration: none;
-    border: 1px solid blue;
-    margin-top: 10px;
+    border: 5px;
+    margin-top: 30px;
     margin-bottom: 100px;
-    margin-right: 10px;
+    margin-right: 20px;
     margin-left: 80px;
     background-color: chocolate;
+    border-radius: 10px;
 }
 .about{
     align-items: center;
     color: rgb(155, 82, 23);
 }
+.half-widthn{
+    width: 33%;
+    border: 10px;
+    padding-left: 5%;
+    margin-left: 10px;
+    box-shadow: 20px 20px 20px rgb(75, 67, 67);
+}
+.half-widthn img{
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+}
+.bgi{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+  }
+  .last{
+      display: flex;
+      box-shadow: 20px 20px 20px 20px rgb(218, 88, 88);
+      margin-top: 100px;
+      margin-left: 20%;
+      margin-right: 20%;
+      border: 5px white;
+      background-image: linear-gradient(blue yellow);
+      border-image-slice: 5%;
+      border-radius: 10px;
+  }
+  .ft{
+      width: 33%;
+  }
