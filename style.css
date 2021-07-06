@@ -1,5 +1,6 @@
 .front-page{
     display: flex;
+    margin-top: 50px;
 }
 .half-width{
     width: 100%;
@@ -54,4 +55,13 @@
   }
   .ft{
       width: 33%;
+  }
+  .search{
+      margin-left: 600px;
+      margin-top: 50px;
+      size: 100%;
+      color: tomato;
+  }
+  #value{
+      margin-left: 40px;
   }
